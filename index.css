@@ -1,0 +1,75 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.container{
+   font-family: 'Source Sans Pro', sans-serif;
+   margin-top: 15px;
+}
+.img1{
+    border-bottom: 2px solid #C6C6C6;
+    padding: 4px 8px;
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    height: 50px;
+}
+
+.img-user{
+    height: 40px;
+    border-radius: 50%;
+    
+}
+
+.vvg{
+    height: 40px;
+    border-radius: 50%;
+    margin-top: 15px;
+}
+.content-1{
+    display: flex; 
+    flex-direction: row;
+    height: 70px;
+}
+
+.content-inner,
+.content-inner-1{
+    margin-left: 10px;
+}
+.sp1{
+    font-weight: 400;
+    font-size: 12px;
+    line-height:15.08px;
+}
+.post{
+    height: 375px;
+    width: 375px;
+}
+.icon-reaction-1,
+.icon-reaction-2,
+.icon-reaction-3{
+    width: 23.3px;
+    height: 22.13px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.icon-reaction-1:hover,
+.icon-reaction-2:hover,
+.icon-reaction-3:hover{
+    height: 30px;
+    width: 28px;
+}
+.sp2{
+    font-weight: bold;
+}
+.like{
+    font-weight: bold;
+    margin-left: 10px;
+}
+.comment{
+    margin-left: 10px;
+}
+
+
