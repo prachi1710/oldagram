@@ -60,6 +60,7 @@ html, body {
 .icon-reaction-3:hover{
     height: 30px;
     width: 28px;
+    background-color: #E9ECEF;
 }
 .sp2{
     font-weight: bold;
